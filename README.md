@@ -5,3 +5,4 @@ In an insertion sort, the first element of the array is taken as a sorted array,
 
 In this Project, I have written a program that visualizes the Insertion Sort Algorithm . The Graphical User Interface(GUI) is applied in python using the pygame library.
 The approach is simple, just generate some random array and fill the pygame window with bars. Bars are straight and vertical lines that represent array elements in an array list. The actions are performed using ‘pygame.event.get()’ method, which stores all the events which user performs, such as start(Space), reset(R), Ascending(A) or Descending(D).
+we can visualize the insertion sort algorithm using PyGame i.e when the pygame application get started we can see the unsorted bars with different heights and when we click space bar key it started getting arranging in insertion sort manner 
